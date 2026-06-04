@@ -17,15 +17,15 @@ This project focuses on analyzing the infrastructure, layout, and geographic met
 SELECT COUNT(*) AS Total_Stations
 FROM metro_stations;
 Result: 55 Metro stations
-
+'''
 
 ###Challenge 2: Identify the Operating Lines
 Question: Show a list of only the unique (distinct) colors in the line column to see how many different lines exist.
-sql
+'''sql
 SELECT DISTINCT line 
 FROM metro_stations;
 Result: RED and GREEN
-
+'''
 
 ###Challenge 3: Identify Network Expansion
 Question: Find all the metro stations that were opened in the most recent year of the dataset (2021).
