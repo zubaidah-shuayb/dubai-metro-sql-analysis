@@ -1,15 +1,15 @@
-# 🚇 Dubai Metro Network Analysis (SQL Project)
+# Dubai Metro Network Analysis (SQL Project)
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing the infrastructure, layout, and geographic metrics of the Dubai Metro network. Using SQL, I explored a dataset of 55 metro stations to extract key business insights regarding line capacities, network expansion timelines, and spatial distribution relative to the city center (Burj Khalifa).
 
-## 🛠️ Tech Stack & Skills Used
+## Tech Stack & Skills Used
 * **Database Engine:** DuckDB / SQLite
 * **SQL Concepts:** Aggregations (`COUNT`, `AVG`), Data Filtering (`WHERE`, `LIKE`, `AND`), Data Grouping (`GROUP BY`), Sorting & Limits (`ORDER BY`, `LIMIT`).
 
 ---
 
-## 📊 Data Challenges & Solutions
+## Data Challenges & Solutions
 
 ### Challenge 1: Total Station Count
 **Question:** How many total metro stations are in this dataset?
