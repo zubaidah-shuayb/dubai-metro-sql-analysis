@@ -1,4 +1,4 @@
-#  Dubai Metro Network Analysis (SQL Project)
+#  Dubai Metro Network Analysis (SQL BASIC Project)
 
 ##  Project Overview
 This project focuses on analyzing the infrastructure, layout, and geographic metrics of the Dubai Metro network. Using SQL, I explored a dataset of 55 metro stations to extract key business insights regarding line capacities, network expansion timelines, and spatial distribution relative to the city center (Burj Khalifa).
